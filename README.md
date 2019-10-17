@@ -1,0 +1,2 @@
+# FruitsGame
+Slashing fruits 
